@@ -1,0 +1,90 @@
+{
+    "cats": [
+        {
+            "name": "Simon",
+            "category": "Fast",
+            "price": 100,
+            "img_url": "img/1.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Gucci",
+            "category": "Swift",
+            "price": 200,
+            "img_url": "img/2.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Gleb",
+            "category": "Fast",
+            "price": 150,
+            "img_url": "img/3.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Katty",
+            "category": "Brisk",
+            "price": 300,
+            "img_url": "img/4.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Mops",
+            "category": "Fast",
+            "price": 180,
+            "img_url": "img/5.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Genry",
+            "category": "Swift",
+            "price": 100,
+            "img_url": "img/6.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Rexel",
+            "category": "Snappy",
+            "price": 190,
+            "img_url": "img/8.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Molly",
+            "category": "Swift",
+            "price": 420,
+            "img_url": "img/9.svg",
+            "is_aviable": true
+        },
+        {
+            "name": "Garry",
+            "category": "Fast",
+            "price": 100,
+            "img_url": "img/10.png",
+            "is_aviable": true
+        },
+        {
+            "name": "Yuli",
+            "category": "Fast",
+            "price": 190,
+            "img_url": "img/11.png",
+            "is_aviable": true
+        },
+        {
+            "name": "John",
+            "category": "Swift",
+            "price": 190,
+            "img_url": "img/12.png",
+            "is_aviable": true
+        },
+        {
+            "name": "Luc",
+            "category": "Fast",
+            "price": 200,
+            "img_url": "img/13.png",
+            "is_aviable": true
+        }
+    ]
+
+    
+ }
